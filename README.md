@@ -1,1 +1,3 @@
-# C-101-Tip-D-n-mleri
+# C-101-Tip-Donumleri
+
+www.patika.dev
